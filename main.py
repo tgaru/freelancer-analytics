@@ -73,8 +73,6 @@ def generate_answer(query, stats, df_sample):
     {df_sample.head(3).to_string()}
     """
 
-    print(context)
-
     try:
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
