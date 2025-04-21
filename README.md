@@ -26,7 +26,7 @@
 
 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/tgaru/freelancer-analyticss.git
+git clone https://github.com/tgaru/freelancer-analytics.git
 cd freelancer-analytics
 ```
 
